@@ -1,0 +1,2 @@
+# Search-Engine-Project
+This's a project of a Search Engine System divided in three parts: acquisition, indexing and ranking. The first part is based in a module with capability to craw information from the internet, like a WEB Crawler. The second module is able to index the data to be fast retrieved to the users' query. And the last one can get the data retrieved to be ordered according to its relative relevance.
